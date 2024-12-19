@@ -1,0 +1,6 @@
+env/
+ropeproject/
+zed/
+data/
+config.yaml
+pyrightconfig.json
